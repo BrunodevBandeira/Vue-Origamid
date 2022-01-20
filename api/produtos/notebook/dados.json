@@ -9,12 +9,12 @@
     {
       "nome": "Fábio",
       "estrelas": 5,
-      "descricao": "Gostei muito do produto, atendeu todas as minhas necessidades"
+      "descricao": "Gostei muito do produto, atendeu todas as minhas necessidades."
     },
     {
-      "nome": "Fábio",
-      "estrelas": 5,
-      "descricao": "Gostei muito do produto, atendeu todas as minhas necessidades"
+      "nome": "Nathalia",
+      "estrelas": 4,
+      "descricao": "Produto muito bom, mas poderia ser um pouco mais barato."
     }
   ]
 }
